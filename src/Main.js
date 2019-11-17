@@ -14,7 +14,7 @@ class Main extends Component {
           <h1>Simple - Single Page Application</h1>
           <ul className="header">
             <li>
-              <NavLink exact to="/" className="bx--btn bx-btn--primary">
+              <NavLink exact to="/">
                 Home
               </NavLink>
             </li>
